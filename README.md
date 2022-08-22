@@ -16,6 +16,7 @@ This web application uses HTML and Bootstrap for the styling portion, and JSON w
 If you would like to download my project, these are the steps:
         <ol>
         <li>
+          Go to the directory you want in your command line and write:
           ```
           git clone https://github.com/dshah1010/intake-tracker.git
           ```
