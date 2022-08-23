@@ -29,3 +29,6 @@ If you would like to download my project, these are the steps:
           on a live server
        </li>
        </ol>
+
+# What's Next?
+In the future, I plan to edit this by having the option to add daily goals of calories, carbs, protein, and fat, and making the UI more presentable. Additionally, using an API to add recipes including these facts incase users need an idea of what to eat/drink would be great. 
